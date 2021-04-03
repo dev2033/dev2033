@@ -6,12 +6,12 @@
 
 <h3 style="color:#9370DB">Навыки и умения:</h3>
 
-<li style="color: #FFA07A; font-size: 18px;">Python</li>
-<li style="color: #7CFC00; font-size: 18px">Django</li>
-<li style="color: #FFD700;">Linux</li>
-<li style="color: #00BFFF;">SQL</li>
-<li style="color: #9370DB;">Scraping sites</li>
-<li style="color: #FF4500;">GIT</li>
+<li>Python</li>
+<li>Django</li>
+<li>Linux</li>
+<li>SQL</li>
+<li>Scraping sites</li>
+<li>GIT</li>
 
 
 
@@ -38,7 +38,7 @@
 <h3 style="color:#9370DB">Контакты:</h3>
 
 <div class="row">
-<a href="https://vk.com/hellopeople0"><img width="100" style="margin-left:5px; margin-right:5px" src="https://www.sharethis.com/wp-content/uploads/2017/05/Vkontakte.png" alt=""></a>
-<a href="https://t.me/developerPy3"><img width="100" style="margin-left:5px; margin-right:5px" src="https://web.telegram.org/img/logo_share.png" alt=""></a>
-<a href="https://github.com/dev2033"><img width="108" style="margin-left:5px; margin-right:5px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" alt=""></a>
+<a href="https://vk.com/hellopeople0"><img width="80" style="margin-left:5px; margin-right:5px" src="https://www.sharethis.com/wp-content/uploads/2017/05/Vkontakte.png" alt=""></a>
+<a href="https://t.me/developerPy3"><img width="80" style="margin-left:5px; margin-right:5px" src="https://web.telegram.org/img/logo_share.png" alt=""></a>
+<a href="https://github.com/dev2033"><img width="85" style="margin-left:5px; margin-right:5px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" alt=""></a>
 </div>
