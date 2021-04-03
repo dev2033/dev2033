@@ -34,7 +34,9 @@
 Пробовал себя в разработке десктопных приложений на C# и в создании мобильных приложений на Java.
 Хотел бы в ближайшем будущем изучить Golang(немного знаком с синтаксисом языка). 
 
-Умею парсить сайты и делать ботов для Telegram. 
+Умею парсить сайты и делать ботов для Telegram.
+
+Работаю на ОС Linux, пробовал разные дистрибутивы.
 
 Вредных привычек не имею, в свободное время читаю книги и статьи, езжу на велосипеде.
 
@@ -54,4 +56,137 @@
 
 <h3 style="color:#9370DB">Проекты:</h3>
 
+1. ***Сайт для тату-студии***
 
+    *GitHub*: https://github.com/dev2033/tattoo_studio_dj
+   
+    Стек:
+    - Python3
+    - Django
+    - HTML/CSS/JS
+    - Bootstrap
+    <hr>
+2. ***Блог для программиста***
+
+    *GitHub*: https://github.com/dev2033/proger_site
+   
+    Стек:
+    - Python3
+    - Django
+    - HTML/CSS/JS
+    - Bootstrap
+    - SCSS
+    <hr>  
+3. ***Телеграм бот для онлайн магазина***
+
+    *GitHub*: https://github.com/dev2033/tg_store
+   
+    Стек:
+    - Python3
+    - Aiogram
+    - SQLite
+    <hr>  
+
+4. ***Блог для любой сферы***
+
+    *GitHub*: https://github.com/dev2033/proger_blog_dj
+   
+    Стек:
+    - Python3
+    - Django
+    - HTML/CSS/JS
+    - Bootstrap
+    
+   <hr>
+5. ***Парсеры***
+
+    *GitHub*: https://github.com/dev2033/bs4_tutorial_pars
+   
+    Стек:
+    - Python3
+    - BeautifulSoup4
+    - Requests
+    - и др.
+    <hr>
+6. ***Парсер прокси адресов***
+
+    *GitHub*: https://github.com/dev2033/proxy_scanner
+   
+    Стек:
+    - Python3
+    - BeautifulSoup4
+    - Requests
+    - и др.
+    
+    <hr>
+7. ***Парсер прокси адресов***
+
+    *GitHub*: https://github.com/dev2033/proxy_scanner
+   
+    Стек:
+    - Python3
+    - BeautifulSoup4
+    - Requests
+    - и др.
+    <hr>
+
+8. ***Интернет магазин на Django***
+    
+    *Данный проект выполнялся по видео урокам*
+
+    *GitHub*: https://github.com/dev2033/django_shop_v2
+   
+    Стек:
+    - Python3
+    - Django
+    - HTML/CSS/JS
+    - Bootstrap
+    <hr>
+9. ***Работа с API Вконтакте (парсинг новостей групп)***
+    
+    *Данный проект выполнялся по видео урокам*
+
+    *GitHub*: https://github.com/dev2033/vk_api_pars_group
+   
+    Стек:
+    - Python3
+    - BeautifulSoup4
+    - Requests
+    - и др.
+    <hr>
+   
+10. ***Сайт для просмотра фильмов***
+    
+    *Данный проект выполнялся по видео урокам*
+
+    *GitHub*: https://github.com/dev2033/django_movie_test
+   
+    Стек:
+    - Python3
+    - Django
+    - HTML/CSS/JS
+    - Bootstrap
+    <hr>
+    
+11. ***Финансовый бот для Telegram***
+    
+    *Данный проект выполнялся по видео урокам*
+
+    *GitHub*: https://github.com/dev2033/finance_bot
+   
+    Стек:
+    - Python3
+    - Aiogram
+    - SQLite
+    <hr>
+12. ***Остальные репозитории с уроками и практическими заданиями***
+    - **JavaScript:** https://github.com/dev2033/JavaScriptLesson
+    - **Golang:** https://github.com/dev2033/golang_lesson
+    - **Django Lesson:**
+        * News Project: https://github.com/dev2033/django_lesson_news
+        * Blog: https://github.com/dev2033/django_lesson_blog
+    - **SQLite for Python:** https://github.com/dev2033/python_sqlite_tutorial
+    - **Parsing Wildberries:** https://github.com/dev2033/parsing_wildberries
+    - **Kotlin Lessons:** https://github.com/dev2033/Kotlin_Lesson
+    - **Java Lessons:** https://github.com/dev2033/JavaLesson
+    - **Java Notepad:** https://github.com/dev2033/Java_notebook
