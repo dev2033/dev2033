@@ -13,6 +13,7 @@
 <li>Scraping sites</li>
 <li>GIT</li>
 
+<hr>
 
 
 <div class="row">
@@ -30,11 +31,17 @@
 Информационные системы и программирование.
 Коммерческих проектов не было. Готов работать и обучаться.
 
+Пробовал себя в разработке десктопных приложений на C# и в создании мобильных приложений на Java.
+Хотел бы в ближайшем будущем изучить Golang(немного знаком с синтаксисом языка). 
 
-Вредных привычек не имею, в свободное время читаю книги, езжу на велосипеде.
+Умею парсить сайты и делать ботов для Telegram. 
+
+Вредных привычек не имею, в свободное время читаю книги и статьи, езжу на велосипеде.
+
+Хотел бы устроиться на вакансию Стажера, чтобы набраться опыта и идти дальше.
 </p>
 
-
+<hr>
 <h3 style="color:#9370DB">Контакты:</h3>
 
 <div class="row">
@@ -42,3 +49,9 @@
 <a href="https://t.me/developerPy3"><img width="80" style="margin-left:5px; margin-right:5px" src="https://web.telegram.org/img/logo_share.png" alt=""></a>
 <a href="https://github.com/dev2033"><img width="85" style="margin-left:5px; margin-right:5px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" alt=""></a>
 </div>
+
+<hr>
+
+<h3 style="color:#9370DB">Проекты:</h3>
+
+
