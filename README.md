@@ -75,9 +75,9 @@
     - HTML/CSS/JS
     - Bootstrap
     <hr>
-2. ***Блог для программиста***
+2. ***Блог***
 
-    *GitHub*: https://github.com/dev2033/proger_site
+    *GitHub*: https://github.com/dev2033/proger_blog_dj
    
     Стек:
     - Python3
