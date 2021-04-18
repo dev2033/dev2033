@@ -190,7 +190,7 @@
     <hr>
 12. ***Остальные репозитории с уроками и практическими заданиями***
     - **JavaScript:** https://github.com/dev2033/JavaScriptLesson
-    - **Golang:** https://github.com/dev2033/golang_lesson
+    - **Golang:** https://github.com/dev2033/golang_notes_tutorials
     - **Django Lesson:**
         * News Project: https://github.com/dev2033/django_lesson_news
         * Blog: https://github.com/dev2033/django_lesson_blog
